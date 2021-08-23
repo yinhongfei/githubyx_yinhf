@@ -10,5 +10,9 @@ class YxYinhfApplicationTests {
     void contextLoads() {
         System.out.println("111");
     }
+    @Test
+    void test1(){
+        System.out.println("222");
+    }
 
 }
